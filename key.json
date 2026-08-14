@@ -37,6 +37,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "DPMods-WBUAF7": {
+      "hwid": "B8763C974CAA6DE6",
+      "expireDate": "2026-07-10",
+      "isBanned": false,
+      "banReason": "Test Key",
+      "userRank": "Supreme User"
     }
   }
 }
